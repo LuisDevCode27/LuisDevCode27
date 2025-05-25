@@ -124,6 +124,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo"  />
 </div>
 
+
+## GitHub stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LuisDevCode27&theme=dark&mode=weekly)](https://git.io/streak-stats)
+
+
+
 ###
 
 <br clear="both">
